@@ -1,3 +1,11 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<body>
 <?php
-phpinfo();
+echo "Fisk";
 ?>
+</body>
+</html>
